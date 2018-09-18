@@ -1,6 +1,34 @@
-Antes de modelar la información se 
+﻿Antes de modelar la información se 
 especificaran que tipo de llamadas se
 necesitan hacer a la api, segun cada caso de uso :
+
+
+
+Para climograma :
+
+-Previo escoger la estacion  : // preguntar como hacer selects dinamicos (Pais, Ciudad, Estaciones, Colleciones disponibles)
+ 
+ 1.Peticion de los nombres, datos y colecciones disponibles de todas las estaciones 
+ 3.Peticion de los nombres, datos y colecciones disponibles de todas las estaciones  en Determindo Pais
+ 2.Peticion de los nombres, datos y colecciones disponibles de todas las estaciones  en a ciudad
+
+Peticion de zonas 
+
+
+Intgresando una collecion anual en especifica en una estacion especifica
+
+-Peticion de zonas 
+-Pedir la collecion de promedios de todas las medidas de un dia
+-Pedir la collecion de promedios de todas las medidas de un mes
+-Pedir la collecion de promedios de todas las medidas de un año 
+-Pedir Temperatura Promedio Anual 
+-Pedir Temperaturas Promedio Diarias
+-Pedir Temperaturas Promedio Mensuales 
+
+
+
+
+
 
 
 
