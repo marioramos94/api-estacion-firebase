@@ -1,0 +1,6 @@
+Antes de modelar la información se 
+especificaran que tipo de llamadas se
+necesitan hacer a la api, segun cada caso de uso :
+
+
+
